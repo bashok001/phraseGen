@@ -117,6 +117,7 @@ class bnfQuoteDict:
         quote = self.generate(self.key, 1)
         quote = quote.replace(" ,", ",")
         capitalize = False
+        capitalizeNext = True
         breaks = 0
 
         quote2 = []
@@ -135,17 +136,29 @@ class bnfQuoteDict:
 
         quote3 = []
         beforeFirstBreak = True
+
         for word in quote2:
             if "newline" in word:
                 breaks += 1
                 beforeFirstBreak = False
             else:
                 breaks = 0
-            if beforeFirstBreak or word == "i" or "i'" in word:
+
+            if word == "i" or "i'" in word:
                 word = word.capitalize()
-                quote3.append(word)
                 capitalize = False
+
+            if capitalizeNext:
+                word = word.capitalize()
+
+            if word == "." or word == "~" or word == "!":
+                capitalizeNext = True
             else:
+                capitalizeNext = False
+
+            quote3.append(word)
+
+            if not beforeFirstBreak:
                 if breaks > 1:
                     capitalize = True
                 if capitalize == True and "newline" not in word:
@@ -195,4 +208,4 @@ class bnfQuoteDict:
         lines = fullPhrase.split("\n")
         return lines[random.randint(0, (len(lines)-1))];
 
-bnf = bnfQuoteDict('newBrain.yaml')
+bnf = bnfQuoteDict('brain.yaml')

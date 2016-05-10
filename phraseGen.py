@@ -95,7 +95,7 @@ template ="""
                         loop: true,
                         loopCount: 1,
                         showCursor: true,
-                        cursorChar: "|",
+                        cursorChar: "_",
                     });
                 });
             </script>
