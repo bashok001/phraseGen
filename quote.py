@@ -138,7 +138,7 @@ class bnfQuoteDict:
 
         quote3 = []
         beforeFirstBreak = True
-        print quote2
+
         for word in quote2:
             if "newline" in word:
                 breaks += 1
