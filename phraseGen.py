@@ -17,13 +17,13 @@ template ="""
             <title>Quote Generator</title>
 
             <link rel="shortcut icon"
-                  href="http://127.0.0.1/staticAssets/images/pg_favicon.png">
+                  href="http://104.196.107.55:8080/staticAssets/images/pg_favicon.png">
             <link rel="stylesheet"
                   href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css">
             <link rel="stylesheet"
                   href="http://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
             <link rel="stylesheet"
-                  href="http://127.0.0.1/staticAssets/css/styles.css">
+                  href="http://104.196.107.55:8080/staticAssets/css/styles.css">
         </head>
 
         <body class="home">
@@ -40,7 +40,7 @@ template ="""
                     <div class="row section topspace">
                         <div class="col-md-12">
                             <p class="lead text-center text-muted">
-                                Python based, Backus Normal Form based, quote generator. Uses NLTK
+                                Augmented Backus Normal Form based quote generator. Uses NLTK
                                 and Wordnet based nodebox linguistics library to create English
                                 content.
                             </p>
@@ -86,7 +86,7 @@ template ="""
             <script type="text/javascript"
                     src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.2.3.min.js"> </script>
             <script type="text/javascript"
-                    src="http://127.0.0.1/staticAssets/js/typed.min.js"> </script>
+                    src="http://104.196.107.55:8080/staticAssets/js/typed.min.js"> </script>
             <script>
                 $(function(){
                     $('.quote').typed({
@@ -100,7 +100,7 @@ template ="""
                 });
             </script>
             <!--[if lt IE 9]>
-                <script src="http://127.0.0.1/staticAssets/js/html5shiv.js"></script>
+                <script src="http://104.196.107.55:8080/staticAssets/js/html5shiv.js"></script>
             <![endif]-->
         </body>
     </html>
@@ -154,6 +154,8 @@ def showQuote(environ, start_response, router):
             filtered.append(line.strip())
         else:
             filtered.append("pause")
+
+    print phrase
 
     response = pages['index']%{'genquote':phrase}
 
