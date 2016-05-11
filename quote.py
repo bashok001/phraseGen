@@ -111,7 +111,7 @@ class bnfQuoteDict:
 
     def generatePretty(self, seed_str):
         random.seed(uuid.uuid5(uuid.NAMESPACE_DNS,seed_str).int)
-        puncuation = [".", ".", ".", ".", "!", "?"]
+        punctuation = [".", ".", ".", "~", "!", "?"]
         dontbreaks = ["of", "behind", "the", "when", "what", "why", "who", ",",
                       "your", "by", "like", "to", "you", "your", "a", "are",
                       "become", "newline"]
@@ -128,7 +128,7 @@ class bnfQuoteDict:
             quote2.append(word.lower())
             if random.randint(1, 100) < PROB and "newline" not in word and foundFirstBreak:
                 isgood = True
-                for dontbreak in list(dontbreaks + puncuation):
+                for dontbreak in list(dontbreaks + punctuation):
                     if dontbreak == word.lower():
                         isgood = False
                 if isgood:
@@ -138,7 +138,7 @@ class bnfQuoteDict:
 
         quote3 = []
         beforeFirstBreak = True
-
+        print quote2
         for word in quote2:
             if "newline" in word:
                 breaks += 1
@@ -153,7 +153,7 @@ class bnfQuoteDict:
             if capitalizeNext:
                 word = word.capitalize()
 
-            if word == "." or word == "~" or word == "!":
+            if word in list(set(punctuation)):
                 capitalizeNext = True
             else:
                 capitalizeNext = False
@@ -166,17 +166,17 @@ class bnfQuoteDict:
                 if capitalize == True and "newline" not in word:
                     word = word.capitalize()
                     capitalize = False
-                for punc in list(set(puncuation)):
+                for punc in list(set(punctuation)):
                     if punc in word:
                         capitalize = True
                 quote3.append(word)
                 if random.randint(1, 100) < PROB and "newline" not in word:
                     isgood = True
-                    for dontbreak in list(dontbreaks + puncuation):
+                    for dontbreak in list(dontbreaks + punctuation):
                         if dontbreak == word.lower():
                             isgood = False
                     if isgood:
-                        quote3.append(random.choice(puncuation))
+                        quote3.append(random.choice(punctuation))
                         capitalize = True
 
         fullPhrase = " ".join(quote3)
@@ -191,11 +191,11 @@ class bnfQuoteDict:
         fullPhrase = fullPhrase.replace("\n \n ", "\n\n")
         fullPhrase = fullPhrase.replace(" '", "'")
 
-        for punc in list(set(puncuation)):
+        for punc in list(set(punctuation)):
             fullPhrase = fullPhrase.replace(" " + punc, punc)
-        for punc in list(set(puncuation)):
+        for punc in list(set(punctuation)):
             fullPhrase = fullPhrase.replace(" " + punc, punc)
-        for punc in list(set(puncuation)):
+        for punc in list(set(punctuation)):
             fullPhrase = fullPhrase.replace(" " + punc, punc)
 
         fullPhrase = fullPhrase.replace(" ,", ",")
@@ -205,7 +205,7 @@ class bnfQuoteDict:
         fullPhrase = fullPhrase.replace("!.", "!")
         fullPhrase = fullPhrase.replace("..", ".")
         fullPhrase = fullPhrase.replace("..", ".")
-        fullPhrase = fullPhrase.replace("..", ".")
+        fullPhrase = fullPhrase.replace(".~", ". ~")
 
         lines = fullPhrase.split("\n")
         return lines[random.randint(0, (len(lines)-1))];
