@@ -208,4 +208,4 @@ class bnfQuoteDict:
         lines = fullPhrase.split("\n")
         return lines[random.randint(0, (len(lines)-1))];
 
-bnf = bnfQuoteDict('brain.yaml')
+bnf = bnfQuoteDict('cfg.yaml')
