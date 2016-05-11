@@ -19,7 +19,7 @@
     - Neither <pnoun> nor <pnoun> nor <ncolor> nor <pcolor> but <pcolor> <punc>
     - <nadj> <time> and the <nadj> <pnoun> <nverb> at the walls of my house <punc>
     - In the face of so many <nnoun-pl> to <ity> <punc>
-    - The <nnoun> imposes nessecity <punc>
+    - The <nnoun> imposes necessity <punc>
     - In my <place> at <time> you are like a <pnoun> and your form and colour the way I <pverb> them <punc>
     - A <pnoun> -like <nnoun> <quotepart> <punc>
     - Your <bodypart> <pverb-pr> from <direction> to <direction>
@@ -544,7 +544,7 @@
   - salt
   - home
   - coat
-  - phemonana
+  - phenomena
   - bottle
   - sun
   - necklace
@@ -723,9 +723,9 @@
   - banana
 <padj>:
   - silent
-  - indespensable
+  - indispensable
   - natural
-  - irreducable
+  - irreducible
   - aquatic
   - winged
   - scrupulous
@@ -733,7 +733,7 @@
   - human
   - velvety
   - perfect
-  - serendipidous
+  - serendipitous
   - deedy
   - hopeful
   - plumed
@@ -750,7 +750,7 @@
   - iridescent
   - unguessed
   - essential
-  - absorbant
+  - absorbent
   - profound
   - starry
   - blazing
@@ -820,7 +820,7 @@
   - poetic
   - electrical
   - pure
-  - angellic
+  - angelic
   - noble
   - serene
   - electric
@@ -923,7 +923,7 @@
   - funeral
   - womb
   - noise
-  - abberation
+  - aberration
   - circumstance
   - utensil
   - imperfect <ptexture>
@@ -933,7 +933,7 @@
   - abys
   - ash
   - vinegar
-  - clandenstine
+  - clandestine
   - violence
   - granule
   - torrent
@@ -941,7 +941,7 @@
   - smoke
   - consequence
   - shards of <ptexture>
-  - seperation
+  - separation
   - bloodied <ntexture>
   - croak
   - lamprey
@@ -1025,7 +1025,7 @@
   - field
   - city
   - jungle
-  - archipeligos
+  - archipelagos
   - night
   - thicket
   - university
@@ -1093,7 +1093,7 @@
   - negligent
   - spoiled
   - muzzled
-  - barbaous
+  - barbarous
   - tremulous
   - careless
   - exiled
@@ -1147,10 +1147,10 @@
   - fragmented
   - bitterest
   - rigid
-  - violenet
+  - violent
   - browbeaten
   - parched
-  - nauesous
+  - nauseous
   - forceful
   - atrocious
   - thirsty
@@ -1159,7 +1159,7 @@
   - sticky
   - boney
   - distorted
-  - calcerous
+  - calcareous
   - insatiable
   - harsh
   - fuming
@@ -1171,7 +1171,7 @@
   - shifty
   - insufferable
   - difficult
-  - imperalist
+  - imperialist
   - calculating
   - raucous
   - rabid
@@ -1206,7 +1206,7 @@
   - sunburst orange
   - sand-colored
   - opaque <pcolor>
-  - transluscent <pcolor>
+  - translucent <pcolor>
   - sepia
   - yellow
   - silvery
@@ -1214,7 +1214,7 @@
   - green
   - cinnamon
   - deep brown
-  - cashmire
+  - cashmere
   - burnt umber
   - marine
   - transparent
@@ -1227,14 +1227,14 @@
   - blood colored
   - ultraviolet
   - black
-  - turqoise
+  - turquoise
   - rust colored
   - red
 <studyfield>:
   - computer science
   - photography
   - oceanography
-  - jouranlism
+  - journalism
   - science
   - mountaineering
   - engineering
@@ -1394,7 +1394,7 @@
   - cedar
   - paper-mache
   - emerald
-  - saphire
+  - sapphire
   - fused quartz
   - silk
   - bolt of <ptexture>
@@ -1404,7 +1404,7 @@
   - panic
   - agony
   - sorrow
-  - embarassement
+  - embarrassment
   - confusion
   - anger
   - fear
@@ -1481,7 +1481,7 @@
   - nobody
   - everybody
   - someone
-  - noone
+  - no one
 <theme-noun>:
   - feedback
   - metric
@@ -1543,7 +1543,7 @@
   - confide
 <theme-adj>:
   - profitable
-  - inspiried
+  - inspired
   - robust
   - proactive
   - seamless
@@ -1553,6 +1553,6 @@
   - synergistic
   - marketable
   - narrow
-  - succesful
+  - successful
   - trusting
   - confident
