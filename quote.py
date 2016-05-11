@@ -38,6 +38,8 @@ class bnfQuoteDict:
                             v = self.generate("<pverb>", 1).strip()
                         elif "nverb" in word:
                             v = self.generate("<nverb>", 1).strip()
+                        else:
+                            v = self.generate("<theme-verb>", 1).strip()
 
                         if random.randint(1, 100) < PROB:
                             v = self.generate("<theme-verb>", 1).strip()
