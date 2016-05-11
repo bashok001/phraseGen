@@ -1,0 +1,1558 @@
+<quote>:
+    - <quotepart> <attribution>
+    - <quotepart> <quotepart> <attribution>
+
+<attribution>:
+    - ~ <first> . <last>
+
+<first>:
+    - <alpha>
+
+<last>:
+    - Howard
+    - Peters
+    - Wong
+    - Christensen
+    - Farmer
+    - Stevenson
+    - Leonard
+    - Bowers
+    - Bell
+    - Thompson
+    - Graves
+    - Walker
+    - Rios
+    - Watkins
+    - Alvarado
+    - Cobb
+    - Miles
+    - Sparks
+    - Marsh
+    - Edwards
+    - Bridges
+    - Harvey
+    - Jones
+    - Hogan
+    - Mckinney
+
+<alpha>:
+    - A
+    - B
+    - C
+    - D
+    - E
+    - F
+    - G
+    - H
+    - I
+    - J
+    - K
+    - L
+    - M
+    - N
+    - O
+    - P
+    - Q
+    - R
+    - S
+    - T
+    - U
+    - V
+    - W
+    - X
+    - Y
+    - Z
+
+<punc>:
+    - .
+
+<focus>:
+    - <pfeeling>
+    - <life>
+    - <opportunity>
+    - <hope>
+    - <enjoy>
+    - <game>
+
+<punch>:
+    - punch
+
+<twist>:
+    - twist
+
+<end>:
+    - end
+
+<life>:
+    - life
+    - live
+
+<opportunity>:
+    - opportunity
+
+<hope>:
+    - hope
+
+<enjoy>:
+    - enjoy
+
+<game>:
+    - game
+
+<little>:
+    - little
+    - lots
+<scene>:
+    - reel
+    - scene
+    - take
+<says>:
+    - cries
+    - says
+    - exclaims
+    - quips
+<modernplace>:
+    - bus stop
+    - office cubicle
+    - post office
+<beginning>:
+    - beginning
+    - ending
+    - new ending
+    - old ending
+    - new beginning
+<randomnumber>:
+    - three hundred
+    - twenty-seven
+    - too many to count
+    - too few to count
+    - thousand
+    - million
+<direction>:
+    - west
+    - east
+    - north
+    - south
+<randomnature>:
+    - <pnature>
+    - <nnature>
+<pnature>:
+    - ocean wave
+    - palm tree leaf
+    - blade of grass
+    - ray of sunlight
+    - pillow of fog
+<nnature>:
+    - tornado
+    - uncomfortable turbulence
+    - harrowing wind
+    - unrelenting rain
+<with>:
+    - with
+    - without
+<story>:
+    - tale
+    - history
+    - story
+<nprep>:
+    - among
+    - in the middle of
+    - in
+    - behind
+    - against
+    - outside
+    - under
+    - inside
+<trueto>:
+    - untrue to
+    - true to
+<pfeeling>:
+    - love
+    - joy
+    - felicity
+    - purity
+    - tiredness
+    - respect
+    - pride
+    - honor
+    - happiness
+    - wonder
+    - sincerity
+    - decency
+<neutral>:
+    - positive
+    - neutral
+    - negative
+<simultaneous>:
+    - simultaneous
+    - disjoint
+<recording>:
+    - transmission
+    - recording
+<below>:
+    - above
+    - below
+    - right at
+<system>:
+    - system
+    - environment
+    - architecture
+<pulledout>:
+    - pulled out
+    - shut out
+    - shut up
+    - closed off
+<moveon>:
+    - move on
+    - set forth
+    - go forward
+    - keep going
+    - proceed
+    - recount
+<element>:
+    - fire
+    - sky
+    - ice
+    - lightning
+    - water
+    - electricity
+    - heat
+    - lava
+    - clay
+    - mud
+    - earth
+    - wind
+    - jungle
+<noun-pl>:
+    - inscriptions
+    - mats
+    - computers
+    - phenomena
+    - words
+    - studies
+    - techniques
+    - projection
+<ity>:
+    - animosity
+    - positivity
+    - functionality
+<nplace>:
+    - darkness
+<pnoun>:
+    - sun rise
+    - starlight
+    - faucet
+    - fellowship
+    - umbrella
+    - laminated sign
+    - <pcolor> car
+    - starry sky
+    - flesh
+    - flint
+    - essence
+    - sweetnes
+    - wreath
+    - aroma
+    - smooth stone
+    - maternity
+    - defender
+    - old warrior's medal
+    - sea water
+    - grape
+    - goblet
+    - <pcolor> lake
+    - rose
+    - jar
+    - lake
+    - writing
+    - window
+    - hat
+    - sea shell
+    - momentum
+    - stalks of cattail
+    - garden
+    - evening star
+    - wave
+    - kiss
+    - propeller
+    - banner
+    - school
+    - prize
+    - drop
+    - miracle
+    - perfume
+    - heart
+    - flower head
+    - saxophone
+    - splendor
+    - poppy
+    - river
+    - friendship
+    - quilt
+    - door
+    - energy
+    - crown
+    - railroad track
+    - mirror
+    - ripple
+    - cathedral
+    - ribbon
+    - flower
+    - leaf
+    - candle
+    - movie
+    - moon
+    - current
+    - kis
+    - branch
+    - fountain
+    - lunar
+    - wheatfield
+    - flute
+    - shoreline
+    - praise
+    - nature
+    - utensil
+    - horse
+    - guitar
+    - femininity
+    - key
+    - elixir
+    - path
+    - tryst
+    - sea's skin
+    - acrobat
+    - stone
+    - thread
+    - bird feather
+    - coral
+    - ritual
+    - serenity
+    - knave
+    - star
+    - silence
+    - love
+    - apple
+    - bell
+    - vein
+    - echo
+    - promise
+    - warmth of your body
+    - honeysuckle
+    - mist
+    - wine bottle
+    - lighthouse
+    - eddy
+    - telegraph
+    - time
+    - curtain
+    - warmth
+    - pencil
+    - shades of <pcolor>
+    - form
+    - alcove
+    - river bank
+    - tiger
+    - flag
+    - atom
+    - grace
+    - planetarium
+    - tree
+    - soul
+    - bed
+    - dew
+    - cluster
+    - fragrance of strawberry
+    - foliage
+    - light
+    - hoove
+    - root
+    - affection
+    - cactus
+    - bridge
+    - quiver
+    - angel
+    - well
+    - circus
+    - autumn
+    - juice
+    - landscape
+    - <ptexture> architecture
+    - pasture
+    - serendipity
+    - breakfast
+    - ship
+    - film
+    - lemon
+    - sphere
+    - peace
+    - snow
+    - book
+    - forest
+    - pullulation
+    - mane
+    - map
+    - trouser
+    - aspen
+    - magnolium
+    - farm
+    - foam
+    - springtime
+    - precision
+    - stars in the sky
+    - productivity
+    - awe
+    - law
+    - dove
+    - mosaic
+    - smooth <ntexture>
+    - droplet
+    - land
+    - reflection
+    - salt
+    - home
+    - coat
+    - phenomena
+    - bottle
+    - sun
+    - necklace
+    - muscle
+    - <Last>
+    - <theme-noun>
+<adverb>:
+    - slowly
+    - headlong
+<bodypart-pl>:
+    - shoulders
+    - brains
+    - eyes
+    - toes
+    - noses
+    - mouths
+    - eyelids
+    - arms
+    - fingers
+    - feet
+    - fingernails
+    - lips
+    - tails
+    - eyeballs
+    - hands
+    - hearts
+    - legs
+    - hips
+    - ears
+<vehicle>:
+    - wheel
+    - bicycle
+    - car
+    - train
+    - helicopter
+    - vessel
+    - raft
+    - ship
+    - airplane
+    - boat
+<bodypart>:
+    - heart
+    - brow
+    - curves
+    - brain
+    - arm
+    - eye
+    - breath
+    - fingernails
+    - tail
+    - lip
+    - finger
+    - toe
+    - leg
+    - hand
+    - mouth
+    - foot
+    - shoulder
+    - eyelids
+    - nose
+    - eyeballs
+    - hips
+    - ears
+<ntexture>:
+    - steel
+    - ash
+    - aluminum
+    - metal
+    - sand
+    - broken glass
+    - graphite
+    - iron
+    - clay
+    - rusted nail
+    - brick
+    - salt
+<herhim>:
+    - him
+    - her
+    - them
+<nverb>:
+    - fall
+    - silence
+    - invade
+    - deprive
+    - disguise
+    - loiter
+    - sob
+    - force
+    - deform
+    - chain
+    - scratch
+    - pass
+    - petrify
+    - smother
+    - replace
+    - twist
+    - entangle
+    - protest
+    - kill
+    - loathe
+    - shake
+    - coddle
+    - tremble
+    - coagulate
+    - pamper
+    - mourn
+    - filter
+    - gnaw
+    - decay
+    - electrify
+    - hate
+    - faint
+    - undulate
+    - forebode
+    - abolish
+    - crush
+    - freeze
+    - attack
+    - erupt
+    - congeal
+    - bristle
+    - reject
+    - brainwash
+    - condemn
+    - sodden
+    - mutate
+    - prosecute
+    - smear
+    - bury
+    - taunt
+    - crack
+    - shatter
+    - lunge
+    - falter
+    - drown
+    - conquer
+    - degrade
+    - puncture
+    - compound
+    - penetrate
+    - overflow
+    - abduct
+    - strike
+    - wipe
+    - change
+    - delude
+    - fly
+    - execute
+    - throttle
+    - imprison
+    - wet
+    - drop
+    - dismantle
+    - pity
+    - abhor
+    - ignore
+    - harass
+    - devour
+    - deceive
+    - die
+    - impale
+    - plague
+    - abandon
+    - steal
+<fruit>:
+    - kiwi
+    - tomato
+    - grape
+    - apple
+    - cherry
+    - fruit
+    - mango
+    - orange
+    - lemon
+    - banana
+<padj>:
+    - silent
+    - indispensable
+    - natural
+    - irreducible
+    - aquatic
+    - winged
+    - scrupulous
+    - domestic
+    - human
+    - velvety
+    - perfect
+    - serendipitous
+    - deedy
+    - hopeful
+    - plumed
+    - eager
+    - rosy
+    - incredulous
+    - fluidic
+    - myriad
+    - hidden
+    - friendly
+    - real
+    - equinoctial
+    - sweet-smelling
+    - iridescent
+    - unguessed
+    - essential
+    - absorbent
+    - profound
+    - starry
+    - blazing
+    - affluent
+    - acerb
+    - soft
+    - round
+    - homogeneous
+    - lion hearted
+    - changeless
+    - resolute
+    - manly
+    - nocturnal
+    - naked
+    - boundless
+    - arcane
+    - cleansed
+    - full
+    - vertical
+    - free
+    - dashing
+    - solute
+    - lyrical
+    - great
+    - stationary
+    - cosmic
+    - slender
+    - honest
+    - parenthetical
+    - verdure
+    - secure
+    - self-assured
+    - gleaming
+    - delicious
+    - balanced
+    - thick
+    - absent minded
+    - sensible
+    - ancient
+    - wonderful
+    - decisive
+    - lovely
+    - spacious
+    - fleeting
+    - esoteric
+    - warm
+    - parsimonious
+    - careful
+    - handsome
+    - wide
+    - romantic
+    - brandishing
+    - somber
+    - promising
+    - moonlit
+    - loving
+    - monastic
+    - cordial
+    - celestial
+    - trusting
+    - comfortable
+    - sensual
+    - smooth
+    - eloquent
+    - sanguine
+    - aromatic
+    - poetic
+    - electrical
+    - pure
+    - angelic
+    - noble
+    - serene
+    - electric
+    - resplendent
+    - delicate
+    - enduring
+    - infinite
+    - enchanting
+    - mineral
+    - clear
+    - humble
+    - steady
+    - musical
+    - charitable
+    - fresh
+    - original
+    - <theme-adj>
+<noun>:
+    - detail
+    - camera
+    - production
+    - sequence
+    - metaphor
+    - inscription
+    - projection
+    - language
+    - point of view
+    - signal
+    - study
+    - technique
+    - machine
+    - computer
+    - antenna
+    - phenomenon
+    - image
+    - synonym
+    - identity
+    - calculation
+<weather>:
+    - clouds
+    - sun
+    - sunshine
+    - snow
+    - rain
+    - fog
+    - thunder
+    - mist
+    - drizzle
+    - wind
+<nnoun>:
+    - invasion
+    - bomb
+    - shortcut
+    - probe
+    - scandalmongering
+    - jackal
+    - rectum
+    - death
+    - phlegm
+    - flask
+    - lonely road
+    - stain
+    - pigeon hole
+    - trash barge
+    - self-production
+    - complaint
+    - dust
+    - yeast
+    - massacre
+    - cadaver
+    - felicity
+    - billow of <ncolor> smoke
+    - gate
+    - uranu
+    - shadow
+    - lineage
+    - enemy
+    - shrapnel
+    - saliva
+    - lightning
+    - moldy banana
+    - legume
+    - oblivion
+    - trap
+    - night
+    - bloody feather
+    - bone
+    - eternity
+    - jugular
+    - nail
+    - acid
+    - clock
+    - corpse
+    - vortex
+    - havoc
+    - lard
+    - convict
+    - bramble
+    - belt
+    - funeral
+    - womb
+    - noise
+    - aberration
+    - circumstance
+    - utensil
+    - imperfect <ptexture>
+    - dung
+    - darknes
+    - billows of <ncolor> smoke
+    - abys
+    - ash
+    - vinegar
+    - clandestine
+    - violence
+    - granule
+    - torrent
+    - dominion
+    - smoke
+    - consequence
+    - shards of <ptexture>
+    - separation
+    - bloodied <ntexture>
+    - croak
+    - lamprey
+    - thorn tree
+    - dagger
+    - wall
+    - legless horse
+    - pamphlet
+    - parallel <nnoun-pl>
+    - vagabond
+    - extinction
+    - cubicle
+    - stench
+    - city
+    - trapdoor
+    - vagina
+    - wax
+    - nougat
+    - stalactite
+    - puberty
+    - imbroglio
+    - hole
+    - cold fire
+    - wounded soldier
+    - cummerbund
+    - conspirator
+    - blade
+    - conglomerate
+    - explication
+    - oxide
+    - flame
+    - error
+    - coffin
+    - heart
+    - pin
+    - moth
+    - whisper
+    - rooster
+    - juice
+    - throat
+    - hound
+    - receptacle
+    - martyr
+    - wound
+    - rotten stump
+    - viola
+    - wasteland
+    - cleft
+    - trash
+    - panic
+    - lance
+    - evil
+    - beast
+    - corruption
+    - blood
+    - vigil
+    - grave
+    - ghost
+    - alarm
+    - polyp
+    - mask
+    - twisting lonely road
+    - coal
+    - depth
+    - ego
+    - salt
+    - howl
+    - stick
+    - <
+<place>:
+    - boulevard
+    - divisions
+    - land
+    - modern office
+    - area
+    - universe
+    - region
+    - vicinity
+    - heights
+    - moonlight evening
+    - field
+    - city
+    - jungle
+    - archipelagos
+    - night
+    - thicket
+    - university
+    - chimney
+    - room
+    - sea
+<pprep>:
+    - behind
+    - outside
+    - in front of
+    - among
+    - around
+    - amid
+    - inside
+    - within
+    - next to
+    - outside
+    - in
+    - with
+<timeword>:
+    - end
+    - beginning
+<adj>:
+    - slightest
+    - technical
+    - public
+    - neutral
+    - individual
+    - minor
+    - algorithmic
+    - aerial
+    - side
+    - overtone
+    - historical
+    - alphabetic
+    - grammatic
+<nadj>:
+    - explosive
+    - bleak
+    - senile
+    - dead
+    - chaotic
+    - wayside
+    - inevitable
+    - directionless
+    - listless
+    - rusted
+    - skeleton
+    - neon
+    - windy
+    - cold
+    - arrogant
+    - hated
+    - lewd
+    - blood-stained
+    - tear stained
+    - boneless
+    - ghostly
+    - communist
+    - troubled
+    - tenacious
+    - lonely
+    - delirious
+    - rambunctious
+    - negligent
+    - spoiled
+    - muzzled
+    - barbarous
+    - tremulous
+    - careless
+    - exiled
+    - molested
+    - dilute
+    - disordered
+    - rustling
+    - dead
+    - lashed
+    - sifted
+    - clotting
+    - worn-out
+    - sterile
+    - pale
+    - sordid
+    - putrid
+    - crooked
+    - hushed
+    - rotten
+    - burned-out
+    - guilt
+    - lethargic
+    - hairy
+    - melancholy
+    - banal
+    - weak
+    - mourning
+    - wet-winged
+    - smothered
+    - acidulous
+    - dry
+    - whirlwinds of
+    - brutal
+    - disintered
+    - demonic
+    - torrential
+    - bruised
+    - fractious
+    - obscene
+    - hollow
+    - morose
+    - frightened
+    - bitten
+    - cheerless
+    - silent
+    - callous
+    - shaken
+    - bitter
+    - oily
+    - misunderstood
+    - fragmented
+    - bitterest
+    - rigid
+    - violent
+    - browbeaten
+    - parched
+    - nauseous
+    - forceful
+    - atrocious
+    - thirsty
+    - inaccessible
+    - decadent
+    - sticky
+    - boney
+    - distorted
+    - calcareous
+    - insatiable
+    - harsh
+    - fuming
+    - fatherless
+    - ironous
+    - neurotic
+    - morbid
+    - frail
+    - shifty
+    - insufferable
+    - difficult
+    - imperialist
+    - calculating
+    - raucous
+    - rabid
+    - phosphorus
+    - motionless
+    - shady
+    - clenched
+    - fire-tipped
+    - absurd
+    - mechanical
+    - furious
+    - wounded
+<time>:
+    - early light of day
+    - fortnight
+    - late afternoon
+    - midnight
+    - morning
+    - sunset
+    - afternoon
+    - lunchtime
+    - night
+    - holiday
+    - twilight
+    - day
+    - sunrise
+<heshe>:
+    - she
+    - he
+<pcolor>:
+    - blue
+    - sunburst orange
+    - sand-colored
+    - opaque <pcolor>
+    - translucent <pcolor>
+    - sepia
+    - yellow
+    - silvery
+    - crimson
+    - green
+    - cinnamon
+    - deep brown
+    - cashmere
+    - burnt umber
+    - marine
+    - transparent
+<ncolor>:
+    - brimstone
+    - dull shades of <pcolor>
+    - opaque <ncolor>
+    - gray
+    - dark
+    - blood colored
+    - ultraviolet
+    - black
+    - turquoise
+    - rust colored
+    - red
+<studyfield>:
+    - computer science
+    - photography
+    - oceanography
+    - journalism
+    - science
+    - mountaineering
+    - engineering
+<probable>:
+    - probable
+    - lucky
+    - likely
+    - chance
+    - unlikely
+    - impossible
+<food>:
+    - grape
+    - nectarine
+    - peach
+    - cheesecake
+    - plum
+    - sugar
+    - wine
+    - orange
+    - lemon
+    - bread
+    - apple
+<pverb>:
+    - seek
+    - understand
+    - hear
+    - mix
+    - chirp
+    - reconcile
+    - refresh
+    - mingle
+    - connect
+    - respond
+    - perch
+    - set
+    - love
+    - play
+    - gallop
+    - flow
+    - discover
+    - pulse
+    - divulge
+    - fly
+    - fashion
+    - promise
+    - carry
+    - circumscribe
+    - dawn
+    - recover
+    - attract
+    - imbue
+    - trust
+    - develop
+    - tread
+    - perform
+    - make
+    - preserve
+    - transform
+    - flutter
+    - live
+    - continue
+    - build
+    - conduct
+    - store
+    - crystallize
+    - breathe
+    - shine
+    - begin
+    - rise
+    - return
+    - rescue
+    - magnify
+    - relax
+    - enrich
+    - drink
+    - excite
+    - reflect
+    - upgrade
+    - wake
+    - re-cover
+    - kiss
+    - travel
+    - pacify
+    - rejoice
+    - awaken
+    - grow
+    - expand
+    - weave
+    - relinquish
+    - protect
+    - rustle
+    - seize
+    - wet
+    - gather
+    - appreciate
+    - dedicate
+    - inherit
+    - perfume
+    - shower
+    - blossom
+    - entertain
+    - form
+    - stand
+    - light
+    - swim
+    - blush
+    - enchant
+    - create
+    - <theme-verb>
+<thing>:
+    - nothing
+    - everything
+    - something
+<animal>:
+    - toucan
+    - turkey
+    - jaguar
+    - squirrel
+    - cat
+    - tiger
+    - lobster
+    - crab
+    - elephant
+    - pheasant
+    - ostrich
+    - bird
+    - oyster
+    - iguana
+<universe>:
+    - universe
+    - computer simulation
+    - galaxy
+<abstract>:
+    - faith
+    - abstraction
+    - color
+    - hearing
+    - meaning
+    - sight
+    - sense
+    - feeling
+<p>:
+    - newline
+<ptexture>:
+    - silken
+    - copper
+    - ivory
+    - diamond
+    - chalk
+    - gold
+    - crystal
+    - wooden
+    - ceramic
+    - cork
+    - silicon
+    - glass
+    - cedar
+    - paper-mache
+    - emerald
+    - sapphire
+    - fused quartz
+    - silk
+    - bolt of <ptexture>
+    - gem
+    - marble
+<nfeeling>:
+    - panic
+    - agony
+    - sorrow
+    - embarrassment
+    - confusion
+    - anger
+    - fear
+    - animosity
+    - beligerance
+    - illusion
+<person-pl>:
+    - fill
+<without>:
+    - devoid of
+    - without
+<say>:
+    - divulge
+    - speak
+    - tell
+<try>:
+    - try
+    - attempt
+    - begin
+    - seek
+<geometry>:
+    - circle
+    - line
+    - triangle
+    - square
+    - tetrahedron
+    - quadrangle
+    - line segment
+    - loop
+<person>:
+    - person
+    - stranger
+    - bride
+    - mountaineer
+    - gentleman
+    - one
+    - elder
+    - sailor
+    - giant
+    - god
+    - father
+    - pioneer
+    - aunt
+    - custodian
+    - woman
+    - astronaut
+    - uncle
+    - child
+    - cousin
+    - son
+    - lady
+    - man
+    - goddess
+    - daughter
+    - fisherman
+    - mother
+    - pioneer
+<fruit-pl>:
+    - fill
+<floor>:
+    - linoleum
+    - rug
+    - wood paneling
+    - carpet
+<secret>:
+    - curiosities
+    - secrets
+    - phenomena
+    - epiphany
+    - mysteries
+    - funny things
+<everybody>:
+    - somebody
+    - nobody
+    - everybody
+    - someone
+    - no one
+<theme-noun>:
+    - feedback
+    - metric
+    - community
+    - performance metric
+    - bandwidth
+    - supportive
+    - technology
+    - trust
+    - market
+    - holistic
+    - effort
+    - innovation
+    - strategy
+    - attitude
+    - teamwork
+    - equity
+    - capital
+    - marketing
+    - brand
+    - team
+    - outreach
+    - leadership
+    - dedication
+    - data
+    - solution
+    - value
+    - enterprise
+    - inspiration
+    - confidence
+    - trust
+    - research
+    - invention
+    - experiment
+    - market
+    - network
+    - calibration
+<theme-verb>:
+    - perform
+    - experiment
+    - explore
+    - innovate
+    - create
+    - dedicate
+    - innovate
+    - grow
+    - profit
+    - succeed
+    - calibrate
+    - adjust
+    - solve
+    - value
+    - narrow
+    - support
+    - expand
+    - invent
+    - research
+    - trust
+    - confide
+<theme-adj>:
+    - profitable
+    - inspired
+    - robust
+    - proactive
+    - seamless
+    - valuable
+    - competitive
+    - innovative
+    - synergistic
+    - marketable
+    - narrow
+    - successful
+    - trusting
+    - confident
+
+<quotepart>:
+    - what we say <pverb-pr> to <pverb> some other <person> what a <noun> may teach <punc>
+    - only <nadj> and to a <person> they take on time , <randomnumber> years <punc>
+    - The <pnoun-pl> exists even when there is <little> to say , and it ceases <pprep> it in <nplace> <punc>
+    - <pprep> the <pnoun> of the <place> where you sleep , a dream <nverb-pr> into <noun-pl> <punc>
+    - A chorus of <animal-pl> at <time> un <pverb-past> un <nverb-past> comes to a halt before a <pnoun> <punc>
+    - Our new <pnoun> , our <padj> <pnoun> <geometry-pl> <punc>
+    - a <nadj> <noun> <nverb-pr> even the <padj> <adj> <place> in <noun> to which the metaphor will not be <pverb-past> <punc>
+    - We get the <abstract> they must lots to <pverb> to each other or perhaps nothing but <nnoun-pl> <pnoun> Perhaps they are not <nverb-past> <pnoun>
+    - Once there was a <nadj> <person> who <pverb-past> at parties , sitting in a <geometry> , among <pnoun-pl> <punc>
+    - Where <pnoun-pl> meet <pnoun-pl> meet, <pprep> and <pprep> and the sound of <nnoun-pl> , to reach out and <pverb> in <nfeeling> <punc>
+    - As soon as the incoming <pnoun-pl> gives the <adj> indication <punc>
+    - I am <nverb-past> by <pnoun> and <nnoun> , by <nnoun> and <weather> <punc>
+    - It <pverb-pr> like a <pnoun> <pprep> the <pnoun> <punc>
+    - Neither <pnoun> nor <pnoun> nor <ncolor> nor <pcolor> but <pcolor> <punc>
+    - <nadj> <time> and the <nadj> <pnoun> <nverb> at the walls of my house <punc>
+    - In the face of so many <nnoun-pl> to <ity> <punc>
+    - The <nnoun> imposes necessity <punc>
+    - In my <place> at <time> you are like a <pnoun> and your form and colour the way I <pverb> them <punc>
+    - A <pnoun> -like <nnoun> <quotepart> <punc>
+    - Your <bodypart> <pverb-pr> from <direction> to <direction>
+    - What <padj> <pnoun-pl> - the <place> is filled with it, <pnoun-pl> for the <pnoun> and the <nadj> <ptexture> <punc>
+    - <pverb-inf> a <pnoun> <pverb-past> in the <padj> <weather> <punc>
+    - It is a tale of <nadj> <nnoun-pl> <quotepart>
+    - Come with me to the <nnoun> of <nnoun-pl> <punc>
+    - Here I am, a <padj> <bodypart> <nverb-past> in the <place> of <pnoun> <punc>
+    - An odor has <pverb-past> <nprep> the <pnoun> , a mixture of <nnoun> and body , a <pverb-inf> <pnoun> that brings <nfeeling> <punc>
+    - When you <pverb> like <pnoun> <pverb-past> by the <element> <punc>
+    - When you <pverb> <pverb-past> like a <pnoun> <punc>
+    - There are many <nnoun-pl> <pprep> <nadj> events <punc>
+    - I'm the <person> to the <pnoun> of immediate <pnoun> <punc>
+    - When the <place> is full of <nadj> <bodypart> <pprep> <nnoun-pl> and <nadj> <nadj> <pnoun-pl> and the <nadj> <pnoun-pl> and the <pnoun-pl> at last give forth their <nadj> <nnoun> <punc>
+    - The <pnoun> <pverb-pr> in <pverb-inf> your <bodypart> <punc>
+    - If I could <pverb> the <nnoun> and the <place> <punc>
+    -  What <secret> does the <animal> contain? How little we <pverb> and how much it <pverb-pr> the <secret> of this <universe> <punc>
+    - A loaf of bread baked with <nadj> <pfeeling> and salt <punc>
+    - The reasons for my respect are <pverb-past> in my <bodypart> of <ptexture> <punc>
+    - It was the <time> of the <animal> <punc>  It was the <time> of the <animal> <punc>
+    - You say, what is the <pnoun> waiting for in its <pcolor> <pnoun> ? I tell you it is waiting for <pnoun> like you <punc>
+    - Sometimes a piece of the <element> <nverb-pr> like a <pnoun> in my <bodypart> <punc>
+    - Multitude of <pnoun-pl> ! In and out of the <pcolor> the <pcolor> and the <pcolor>
+    - I was without doubt the <person> <animal> there in the <nadj> <place> <punc> when it looked me with its <padj> <pnoun> eyes it had neither <bodypart> nor <bodypart> but <ptexture> <pnoun-pl> on its sides .
+    - A <ncolor> and <nadj> <pnoun> is <nverb-past> in the <place> <punc>
+    - Not <pverb-inf> is a form of <pverb-inf> <punc>
+    - You've asked me what the <animal> is <pverb-inf> there with his <pcolor> <bodypart> ? I reply, the <pnoun> knows this <punc>
+    - You are going to ask where are the <fruit-pl> ? and the <padj> <pnoun-pl> ? and the <weather> <padj> splattering its <pnoun-pl> and <nverb-inf> them full of <place> and <animal> ?
+    - A <pcolor> <pnoun> <pverb-pr> <punc>
+    - <heshe> is <nprep> us at this moment of first <pverb-inf> <punc>
+    - My <padj> <bodypart> <pverb-pr> you always <punc>
+    - There ought to be a <pnoun> of a <padj> <pnoun> <pverb-inf> in a <place> <punc>
+    - I wish to make a <geometry> <pprep> , and every <abstract> , many times hidden in a <pnoun> <punc>
+    - <pfeeling> is gone , the subject has <pverb-past> <punc>
+    - What seems <simultaneous> to one will not seem so to another <punc>
+    - Fewer and fewer <nverb> about another mode of <pfeeling> <punc>
+    - of <padj> <food> , spirit of the <pnoun-pl> , <nverb-past> <person> blood, your kisses <pverb> into exile and a droplet of <ptexture> , with remnants of the <place> <punc>
+    - <pverb> on the <nnoun-pl> that wait for you <nverb-inf> the <nadj> chairs, <nverb-inf> the doors <punc>
+    - because I love you, love, <pprep> the <element> and <pprep> the <element> <punc>
+    - the <padj> dignity of the <pnoun> !
+    - my heart moves from being <nadj> to being <padj> <punc>
+    - In your <bodypart> of <nverb-inf> the <place> begins to dream of <pverb-inf> <punc>
+    - there are no <nnoun-pl> but <nadj> cycles of <pnoun> and <pcolor> <pnoun-pl> of <padj> <nadj> <ntexture> <punc>
+    - my heart is filled with <pfeeling> like a <ptexture> <pnoun> <punc>
+    - Always you <nverb> through the <time> toward the <time> <nverb-inf> <pnoun-pl> <punc>
+    - a current of <padj> <pnoun> that does not know why it flows and <pverb-pr> <punc>
+    - In your <bodypart> of <nfeeling> the <place> of <pnoun-pl> <pverb> <punc>
+    - I salute your <padj> <food> and envy your <padj> pride <punc>
+    - The <nnoun> <pverb-pr> on its <nadj> mare <pverb-inf> <pcolor> <pnoun-pl> over the <place> <punc>
+    - On what <nadj> <nnoun-pl> <pverb-past> with <element> ?
+    - A <noun> <pverb-pr> , <nverb-pr> - it does not return <punc>
+    - The <pnoun> <nverb-pr> , the <pnoun> of <padj> <pverb-pr> <pprep> <punc>
+    - Conversations of <pnoun-pl> , the recitation of <pnoun-pl> we call <padj> <pnoun> <punc>
+    - <nadj> <person-pl> and <person-pl> <punc> For me they are <adj> <punc>
+    - But I should be <trueto> <studyfield> , <nverb-inf> among its <nadj> <pnoun-pl>. So let us <try> to <say> a story <without> <adj> redundancies.
+    - A <geometry> <pprep> a <geometry> , the <nadj> workings of <padj> law <punc>
+    - They are all <person-pl> professional <nnoun-pl> in whose <padj> <pnoun-pl> originate <punc>
+    - Around the <place> I like to <pverb> like a <nadj> <pnoun> <punc>
+    - <everybody> here is waiting for the next <pnoun> <punc> <pnoun> <punc> You <pverb-past> yourself for <pverb-inf> <punc>
+    - You are the <nadj> <person> of a <animal> , the <nadj> ness of the <pnoun> , the power of the <element> <punc>
+    - Some <pverb> but I <pverb> your <ntexture> like <pnoun> <punc>
+    - The <pnoun> knows this, that life in it's <ptexture> boxes is as endless as the <pnoun> <punc>
+    - A <padj> <floor> making a <padj> thing of a <probable> meeting with a <person> <punc>
+    - the <nadj> <pnoun> is <padj> on your <bodypart> <punc>
+    - I do not <nverb> in the <place> of <nadj> <nnoun> <punc>
+    - You, who is like a <nnoun> <animal> among the <pverb-inf> of many <person> <punc>
+    - I could <pverb> <nnoun> , <nnoun> , and <nnoun> from <pnoun-pl> and <pnoun-pl> with a <ncolor> <pnoun> with <nnoun-pl> in my <bodypart> <punc>
+    - you see <bodypart> as <padj> as the <weather> <punc>
+    - You <pverb> in the <place> as in a <padj> <place> <punc>
+    - the <pnoun> <pverb-inf> from my <bodypart> <punc>
+    - the <nadj> <animal> <pverb-pr> <nprep> the <padj> <nnoun-pl> <punc>
+    - <person> of the depths of my <bodypart> - your <pverb-inf> stills your <padj> regard as though it were <element> <punc>
+    - a <padj> <weather> of <pnoun-pl> <punc>
+    - <pnoun> of a <nverb-past> <nadj> <pnoun> <punc>
+    - I saw how <pnoun-pl> are <pverb-past> by the <padj> <pnoun> <punc>
+    - Everything <nadj> with <padj> voices, the salt of the <pnoun> and piles of <padj> bread <pprep> <time> <punc>
+    - <nadj> <nnoun-pl> and <nadj> <nnoun-pl> <punc>
+    - I stayed <pverb-past> and <pcolor> <nprep> the <place> <punc>
+    - I want you to <pverb> on my <bodypart> <punc>
+    - if you were not the <food> the <padj> moon cooks, sprinkling its <food> across the <place> <punc>
+    - they <nverb-past> it with <nadj> <pnoun-pl> <punc>
+    - <pprep> the <ncolor> <nfeeling> of the <nnoun> <punc>
+    - I'd do it for the <pnoun> in which you <pverb> for the <pnoun-pl> of <pcolor> you've <pverb-past> <punc>
+    - This <nadj> <pnoun> and <pverb-inf> <pnoun> <nverb-pr> me with it's <padj> <pnoun-pl> like <bodypart> and <bodypart> and <ncolor> <pnoun-pl> like <bodypart> and <pnoun-pl> <punc>
+    - <pverb-past> and then <pverb-past> in the <place> <punc>
+    - So the <padj> <pfeeling> lives on in a <fruit> , the <padj> house of the <pnoun> , the <padj> <pnoun> that is <padj> and <padj> <punc>
+    - the <padj> <person> <pverb-pr> in the <padj> morning <punc>
+    - We open the halves of a <secret> and the <nverb-inf> of <nnoun-pl> <pverb-pr> into the <padj> <place> <punc>
+    - the <nadj> <pnoun> that <pverb-pr> in your <pnoun> <punc>
+    - <nfeeling> and <pnoun> - <pnoun-pl> of <nfeeling> <punc>
+    - A <vehicle> is not enough to <nverb> me and keep me from the <place> of your <padj> <secret> <punc>
+    - a <bodypart> and a <bodypart> <pverb-inf> the <place> <punc>
+    - your <pnoun> is a <pnoun> filled with <nadj> <pnoun> <punc>
+    - A <pnoun> <pverb-inf> will <pverb> the <nadj> <element> of a planet <punc>
+    - <nprep> the <nadj> <pnoun> , many <nadj> <nnoun-pl> <punc>
+    - The <person> smiles at the <person> but the <person> does not smile when he looks at the <animal> <person> and the <nadj> ocean <punc>
+    - all <pnoun-pl> become <nnoun-pl> <punc>
+    - you <pverb> my <nadj> <nnoun> like a <padj> <animal> to fresh <food> <punc>
+    - not the <pcolor> moment when the <time> <pverb-pr> the <pnoun-pl> <punc>
+    - the <element> <padj> <nnoun-pl> are <nverb-past> <punc>
+    - <nnoun-pl> of a <nadj> <vehicle> <pverb-inf> <pprep> the <place> <pprep> a <nadj> <vehicle> , <padj> as a <nadj> <animal> <punc>
+    - <pcolor> <nnoun-pl> of <nnoun> , <pcolor> seams above a <nadj> <pnoun> <punc>
+    - you <pverb> <adverb> into a <place> to <pverb> your business <punc>
+    - from <randomnature> to <randomnature> , hidden <pnoun-pl> drawn by <padj> channels , a <nadj> <pnoun> begins to <pverb> <punc>
+    - which is a <padj> <pnoun> of directions <randomnumber> or <randomnumber> , <pverb-past> on a <pnoun> or in the <padj> <pnoun> directions of the <bodypart> , a calculation in your <bodypart-pl> <punc>
+    - A <noun> for <noun> is the lack thereof <punc>
+    - What is this <noun> but a memory <nverb-past> of its <pnoun-pl> ?
+    - A <pnoun> focuses its dream of a <beginning> , its <beginning> , the <beginning> of the <pnoun> order - its <padj> <nnoun-pl> <punc>
+    - Not to <pverb> or even meet the <pnoun> of one who <pverb-pr> <nprep> me in a <place> or <pverb-inf> to a <person> <punc>
+    - For a day , maybe <randomnumber> , I rested under a <randomnature> at a <modernplace> , waiting for the <person> to be <pprep> <punc>
+    - One of them is <padj> , the other knows <noun-pl> <punc> Where is <everybody> <heshe> <says> , and when can we see what is going to happen ?
+    - Only <pnoun> , just the <pnoun> , nothing but it <punc> <pnoun> <punc>
+    - In the first <scene> , the <padj> <person> is <nverb-past> by a <person> <punc> In the second <scene> he returns, to <pverb> and to <pverb> <punc>
